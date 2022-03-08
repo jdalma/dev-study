@@ -14,3 +14,21 @@
 - 이름 [주제이름](링크)
 ```
 
+
+
+## `git`
+
+```
+jeonghyeonjun@jeonghyeonjun-ui-MacBookAir Desktop % cd interview-list-study 
+jeonghyeonjun@jeonghyeonjun-ui-MacBookAir interview-list-study % git branch
+* main
+jeonghyeonjun@jeonghyeonjun-ui-MacBookAir interview-list-study % git branch jhj
+jeonghyeonjun@jeonghyeonjun-ui-MacBookAir interview-list-study % git branch -v
+  jhj  1dbb8bc Merge pull request #2 from jdalma/chr
+* main 1dbb8bc Merge pull request #2 from jdalma/chr
+jeonghyeonjun@jeonghyeonjun-ui-MacBookAir interview-list-study % git checkout jhj
+'jhj' 브랜치로 전환합니다
+jeonghyeonjun@jeonghyeonjun-ui-MacBookAir interview-list-study % git branch -v
+* jhj  1dbb8bc Merge pull request #2 from jdalma/chr
+  main 1dbb8bc Merge pull request #2 from jdalma/chr
+```
