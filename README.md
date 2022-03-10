@@ -6,6 +6,7 @@
 ### [Sirloin Dev](https://github.com/sirloin-dev/meatplatform/blob/master/job-description/interview-questions.adoc)
 ### [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 ### [Backend-Interview-Question](https://github.com/ksundong/backend-interview-question)
+### [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
 
 ***
 
@@ -18,6 +19,8 @@
 
 
 ## `git`
+git 참고 링크
+### [git](https://livecoding.tistory.com/19)
 
 ```
 jeonghyeonjun@jeonghyeonjun-ui-MacBookAir Desktop % cd interview-list-study 
