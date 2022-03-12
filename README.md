@@ -17,6 +17,7 @@
 - 이름 [주제이름](링크)
 ```
 
+- 정현준 [Array , List , LinkedList (+ LinkedList 예제)](https://jdalma.github.io/docs/lab/array-list-linkedList/)
 
 
 ## [git](https://livecoding.tistory.com/19)
