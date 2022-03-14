@@ -21,6 +21,4 @@
 
 - 최해림 [interview list (https://perfect-arch-25e.notion.site/Interview-List-5c5e8186b7fa4dee8e4097322c4c4492)
 
-- 최유한 [RESTful API](https://c-yhhhhh.tistory.com/127)
-
 ## [git](https://livecoding.tistory.com/19)
