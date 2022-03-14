@@ -19,5 +19,7 @@
 
 - 정현준 [Array , List , LinkedList (+ LinkedList 예제)](https://jdalma.github.io/docs/lab/array-list-linkedList/)
 
+- 최해림 [interview list (https://www.notion.so/Interview-List-5c5e8186b7fa4dee8e4097322c4c4492)
+
 
 ## [git](https://livecoding.tistory.com/19)
