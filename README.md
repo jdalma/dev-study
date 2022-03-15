@@ -19,7 +19,7 @@
 
 - 정현준 [Array , List , LinkedList (+ LinkedList 예제)](https://jdalma.github.io/docs/lab/array-list-linkedList/)
 
-- 최해림 [interview list (https://perfect-arch-25e.notion.site/Interview-List-5c5e8186b7fa4dee8e4097322c4c4492)
+- 최해림 [stack & queue (https://www.notion.so/1-stack-queue-510a08575d5d4f1a945010b9875639a6)
 
 - 최유한 [RESTful API](https://c-yhhhhh.tistory.com/127)
 
