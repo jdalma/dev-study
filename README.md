@@ -23,4 +23,6 @@
 
 - 최유한 [RESTful API](https://c-yhhhhh.tistory.com/127)
 
+- 김하경 [equals()/==](https://velog.io/@hagyoung99/JAVAequals)
+
 ## [git](https://livecoding.tistory.com/19)
