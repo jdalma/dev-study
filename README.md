@@ -9,6 +9,7 @@
 ### [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
 ### [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 ### [기술 면접 대비를 위한 기본 개념을 정리하는 Repository](https://github.com/WeareSoft/tech-interview)
+### [면접준비👑](https://trello.com/b/MugMXwGi/면접준비👑)
 ***
 
 ## `Link`
