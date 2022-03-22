@@ -11,7 +11,8 @@
 ### [기술 면접 대비를 위한 기본 개념을 정리하는 Repository](https://github.com/WeareSoft/tech-interview)
 ### [면접준비👑](https://trello.com/b/MugMXwGi/면접준비👑)
 ***
-
+## **git 쓰는 방법 링크**
+[git](https://livecoding.tistory.com/19)
 ## `Link`
 
 ```
@@ -28,8 +29,6 @@
 - 김하경 [equals()/==](https://velog.io/@hagyoung99/JAVAequals)
 
 - 정현준 [`synchronized` in java](https://jdalma.github.io/docs/lab/synchronized/)
-
-## [git](https://livecoding.tistory.com/19)
 
 ### 2주차
 
