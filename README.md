@@ -18,7 +18,7 @@
 - 이름 [주제이름](링크)
 ```
 
-#### 1주차
+### 1주차
 - 정현준 [ArrayList , LinkedList](https://jdalma.github.io/docs/lab/array-list-linkedList/)
 
 - 최해림 [stack & queue](https://www.notion.so/1-stack-queue-510a08575d5d4f1a945010b9875639a6)
@@ -30,3 +30,7 @@
 - 정현준 [`synchronized` in java](https://jdalma.github.io/docs/lab/synchronized/)
 
 ## [git](https://livecoding.tistory.com/19)
+
+### 2주차
+
+- 최해림 [완전탐색/이분탐색](https://www.notion.so/2-66acd4655377432b90c159ed98a21469)
