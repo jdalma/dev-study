@@ -28,5 +28,5 @@
 ### 2주차
 
 - 최해림 [완전탐색/이분탐색](https://www.notion.so/2-66acd4655377432b90c159ed98a21469)
-- 정현준 [`synchronized` in java](https://jdalma.github.io/docs/lab/synchronized/)
+- 정현준 [Garbage Collector](https://jdalma.github.io/docs/java/garbageCollector/)
 - 최유한 [Array / ArrayList / LinkedList]
