@@ -30,4 +30,4 @@
 - 최해림 [완전탐색/이분탐색](https://www.notion.so/2-66acd4655377432b90c159ed98a21469)
 - 정현준 [Garbage Collector](https://jdalma.github.io/docs/java/garbageCollector/)
 - 최유한 [힙(Heap)](https://c-yhhhhh.tistory.com/130)
-
+- 김하경 [자바 메모리](https://velog.io/@hagyoung99/JavaMemory)
