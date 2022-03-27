@@ -31,3 +31,4 @@
 - 정현준 [Garbage Collector](https://jdalma.github.io/docs/java/garbageCollector/)
 - 최유한 [힙(Heap)](https://c-yhhhhh.tistory.com/130)
 - 김하경 [자바 메모리](https://velog.io/@hagyoung99/JavaMemory)
+- 구본혁 [클래스로더](https://bhgu.tistory.com/3)
