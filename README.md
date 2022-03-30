@@ -32,3 +32,6 @@
 - 최유한 [힙(Heap)](https://c-yhhhhh.tistory.com/130)
 - 김하경 [자바 메모리](https://velog.io/@hagyoung99/JavaMemory)
 - 구본혁 [클래스로더](https://bhgu.tistory.com/3)
+
+### 3주차
+- 정현준 [`Class`는 언제 로딩될까?](https://jdalma.github.io/docs/lab/classLoader/)
