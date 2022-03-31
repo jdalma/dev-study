@@ -35,4 +35,4 @@
 
 ### 3주차
 - 정현준 [`Class`는 언제 로딩될까?](https://jdalma.github.io/docs/lab/classLoader/)
-- - 최해림 [재귀]( https://www.notion.so/3-9c77c3b84412417f809c5abf44a1d08a)
+- 최해림 [재귀]( https://www.notion.so/3-9c77c3b84412417f809c5abf44a1d08a)
