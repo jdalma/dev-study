@@ -38,3 +38,4 @@
 - 최해림 [재귀]( https://www.notion.so/3-9c77c3b84412417f809c5abf44a1d08a)
 - 구본혁 [GET방식과 POST방식](https://bhgu.tistory.com/4)
 - 최유한 [큐(Queue)](https://c-yhhhhh.tistory.com/131)
+- 김하경 [DB Index](https://velog.io/@hagyoung99/DB-Index)
