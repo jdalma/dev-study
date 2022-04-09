@@ -45,3 +45,4 @@
 - 최해림 [메모리 누수](https://www.notion.so/4-951f5bc0dc6e419abc9aba1a365f63dd)
 - 최유한 [Tree](https://c-yhhhhh.tistory.com/132)
 - 정현준 [프로세스](https://jdalma.github.io/docs/operating-system/Processes/)
+- 김하경 [DB정규화](https://velog.io/@hagyoung99/DB%EC%A0%95%EA%B7%9C%ED%99%94-9muac9xc)
