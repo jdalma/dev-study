@@ -35,12 +35,13 @@
 
 ### 3주차
 - 정현준 [`Class`는 언제 로딩될까?](https://jdalma.github.io/docs/lab/classLoader/)
-- 최해림 [재귀]( https://www.notion.so/3-9c77c3b84412417f809c5abf44a1d08a)
+- 최해림 [재귀](https://www.notion.so/3-9c77c3b84412417f809c5abf44a1d08a)
 - 구본혁 [GET방식과 POST방식](https://bhgu.tistory.com/4)
 - 최유한 [큐(Queue)](https://c-yhhhhh.tistory.com/131)
 - 김하경 [DB Index](https://velog.io/@hagyoung99/DB-Index)
 
 
 ### 4주차
-- 최해림 [메모리 누수]( https://www.notion.so/4-951f5bc0dc6e419abc9aba1a365f63dd)
+- 최해림 [메모리 누수](https://www.notion.so/4-951f5bc0dc6e419abc9aba1a365f63dd)
 - 최유한 [Tree](https://c-yhhhhh.tistory.com/132)
+- 정현준 [프로세스](https://jdalma.github.io/docs/operating-system/Processes/)
