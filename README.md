@@ -51,3 +51,4 @@
 
 ### 5주차
 - 최유한 [HashTable](https://c-yhhhhh.tistory.com/134)
+- 최해림 [CORS](https://www.notion.so/5-CORS-94e9feb15877406ea144f9e76764ba91)
