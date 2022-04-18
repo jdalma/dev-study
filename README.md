@@ -54,3 +54,6 @@
 - 최해림 [CORS](https://www.notion.so/5-CORS-94e9feb15877406ea144f9e76764ba91)
 - 정현준 [BFS와 DFS](https://jdalma.github.io/docs/algorithmTheory#그래프-탐색)
 - 구본혁 [static](https://bhgu.tistory.com/6)
+
+### 6주차
+- 최해림 [데드락](https://perfect-arch-25e.notion.site/6-25a6732785b74555bad52de5c7c4f92f)
