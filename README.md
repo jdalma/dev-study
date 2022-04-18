@@ -57,3 +57,4 @@
 
 ### 6주차
 - 최해림 [데드락](https://perfect-arch-25e.notion.site/6-25a6732785b74555bad52de5c7c4f92f)
+- 정현준 [시스템 콜](https://jdalma.github.io/docs/operating-system/OS-Structures/#-system-calls%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%98%B8%EC%B6%9C)
