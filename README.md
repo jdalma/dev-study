@@ -1,4 +1,4 @@
-- **자유 주제 스터디**입니다.
+- **자유 주제 발표 형식 스터디**입니다.
 - 매주 일요일 오전 9시에 [Gathertown](https://app.gather.town/app/1olNo4GNl8te99sX/dom-hwang-cha22)에서 모여 발표합니다.
 
 # 주제 선정 참고 링크
