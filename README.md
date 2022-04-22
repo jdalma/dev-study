@@ -25,6 +25,7 @@
 - 정현준 [시스템 콜](https://jdalma.github.io/docs/operating-system/OS-Structures/#-system-calls%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%98%B8%EC%B6%9C)
 - 최유한 [Spring - IoC](https://c-yhhhhh.tistory.com/135)
 - 김하경 [DB Transaction](https://velog.io/@hagyoung99/DB-Transaction)
+- 구본혁 [고정 소수점과 부동 소수점](https://bhgu.tistory.com/7)
 
 ### 5주차
 - 최유한 [HashTable](https://c-yhhhhh.tistory.com/134)
