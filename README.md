@@ -23,6 +23,7 @@
 ### 7주차
 - 정현준 [스레드 , 멀티프로그래밍 , 멀티프로세싱](https://jdalma.github.io/docs/operating-system/Thread&Concurrency/)
 - 구본혁 [효과적인 쿼리 저장](https://bhgu.tistory.com/8)
+- 최유한 [Spring - AOP](https://c-yhhhhh.tistory.com/137)
 
 ### 6주차
 - 최해림 [데드락](https://perfect-arch-25e.notion.site/6-25a6732785b74555bad52de5c7c4f92f)
