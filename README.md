@@ -24,7 +24,8 @@
 - 정현준 [스레드 , 멀티프로그래밍 , 멀티프로세싱](https://jdalma.github.io/docs/operating-system/Thread&Concurrency/)
 - 구본혁 [효과적인 쿼리 저장](https://bhgu.tistory.com/8)
 - 최유한 [Spring - AOP](https://c-yhhhhh.tistory.com/137)
-
+- 최해림 [ES6](https://perfect-arch-25e.notion.site/7-ES6-19933de8864b40659e3f19f7e5a7d28d)
+- 
 ### 6주차
 - 최해림 [데드락](https://perfect-arch-25e.notion.site/6-25a6732785b74555bad52de5c7c4f92f)
 - 정현준 [시스템 콜](https://jdalma.github.io/docs/operating-system/OS-Structures/#-system-calls%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%98%B8%EC%B6%9C)
