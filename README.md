@@ -19,6 +19,8 @@
 ```
 - 이름 [주제이름](링크)
 ```
+### 8주차
+- 최해림 [JSON](https://perfect-arch-25e.notion.site/8-JSON-1fcc5450ac24473a9f28fa93e64c2776)
 
 ### 7주차
 - 정현준 [스레드 , 멀티프로그래밍 , 멀티프로세싱](https://jdalma.github.io/docs/operating-system/Thread&Concurrency/)
