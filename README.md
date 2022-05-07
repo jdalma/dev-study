@@ -24,6 +24,7 @@
 - 최유한 [Spring - PSA](https://c-yhhhhh.tistory.com/139)
 - 정현준 [Spring Bean Scope](https://jdalma.github.io/docs/spring-core/bean-scope/)
 - 구본혁 [환경 변수와 운영체제 기본 명령어](https://bhgu.tistory.com/9)
+- 김하경 [SQL과 NoSQL](https://velog.io/@hagyoung99/SQLNoSQL)
 
 ### 7주차
 - 정현준 [스레드 , 멀티프로그래밍 , 멀티프로세싱](https://jdalma.github.io/docs/operating-system/Thread&Concurrency/)
