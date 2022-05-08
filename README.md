@@ -10,6 +10,7 @@
 ### [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 ### [기본 개념을 정리하는 Repository](https://github.com/WeareSoft/tech-interview)
 ### [Spring 질문 정리](https://sequoia-woolen-f12.notion.site/Spring-f3307e6f46ef4fe5a592a0c5e23e640f)
+### [👍 CS-study](https://github.com/CS-studi/CS-study)
 
 ***
 ## **git 쓰는 방법 링크**
