@@ -20,6 +20,9 @@
 ```
 - 이름 [주제이름](링크)
 ```
+
+### ~~9주차~~ 휴식
+
 ### 8주차
 - 최해림 [JSON](https://perfect-arch-25e.notion.site/8-JSON-1fcc5450ac24473a9f28fa93e64c2776)
 - 최유한 [Spring - PSA](https://c-yhhhhh.tistory.com/139)
