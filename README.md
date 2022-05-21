@@ -22,7 +22,7 @@
 - 이름 [주제이름](링크)
 ```
 ### 10주차
-- 최해림 [JSON](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
+- 최해림 [TREE](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
 
 ### ~~9주차~~ 휴식
 
