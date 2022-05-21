@@ -24,7 +24,7 @@
 ### 10주차
 - 최해림 [TREE](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
 - 최유한 [HashTable](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
-- +[HashMap](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
++[HashMap](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
   
   -+[HashTable](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
   -+[HashMap VS HashTable](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
