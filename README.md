@@ -26,6 +26,7 @@
 - 최유한 [HashTable](https://c-yhhhhh.tistory.com/134) / 
 [HashMap](https://c-yhhhhh.tistory.com/140) / 
 [HashTable VS HashMap](https://c-yhhhhh.tistory.com/141)
+- 정현준 [Deque](https://jdalma.github.io/docs/lab/arrayDeque/)
 
 ### ~~9주차~~ 휴식
 
