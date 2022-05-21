@@ -23,9 +23,6 @@
 ```
 ### 10주차
 - 최해림 [TREE](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
-- 최유한 [HashTable](https://c-yhhhhh.tistory.com/134) / 
-[HashMap](https://c-yhhhhh.tistory.com/140) / 
-[HashMap VS HashTable](https://c-yhhhhh.tistory.com/141)
 
 ### ~~9주차~~ 휴식
 
