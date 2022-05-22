@@ -27,6 +27,7 @@
 [HashMap](https://c-yhhhhh.tistory.com/140) / 
 [HashTable VS HashMap](https://c-yhhhhh.tistory.com/141)
 - 정현준 [Deque](https://jdalma.github.io/docs/lab/arrayDeque/)
+- 김하경 [Array,LinkedList](https://velog.io/@hagyoung99/JavaArray-LinkedList)
 
 ### ~~9주차~~ 휴식
 
