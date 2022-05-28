@@ -24,6 +24,7 @@
 
 ### 11주차
 - 정현준 [Red-Black Tree](https://jdalma.github.io/docs/algorithmTheory/red-black-tree/)
+- 최해림 [http vs https](https://perfect-arch-25e.notion.site/11-http-315b8813abc44bf6b4b56cb6d51efba5)
 
 ### 10주차
 - 최해림 [TREE](https://www.notion.so/10-TREE-5a4ed4048c6144d89461dddabf759f7e)
