@@ -22,6 +22,12 @@
 - 이름 [주제이름](링크)
 ```
 
+### 12주차
+- 김하경 [HTTP Method]()
+- 정현준 [Rest and RestAPI]()
+- 최해림 [SSL, 공개키, 대칭키]()
+- 최유한 [TCP/IP → TCP 3 way-handshake]()
+
 ### 11주차
 - 정현준 [Red-Black Tree](https://jdalma.github.io/docs/algorithmTheory/red-black-tree/)
 - 최해림 [http vs https](https://perfect-arch-25e.notion.site/11-http-315b8813abc44bf6b4b56cb6d51efba5)
