@@ -25,7 +25,7 @@
 ### 12주차
 - 김하경 [HTTP Method]()
 - 정현준 [Rest and RestAPI]()
-- 최해림 [SSL, 공개키, 대칭키]()
+- 최해림 [SSL, 공개키, 대칭키](https://www.notion.so/12-SSL-21b590f3753041a395d453537cd9df34)
 - 최유한 [TCP/IP → TCP 3 way-handshake]()
 
 ### 11주차
