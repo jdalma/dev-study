@@ -22,6 +22,12 @@
 - 이름 [주제이름](링크)
 ```
 
+### 13주차
+- 최유한 [네트워크 시스템의 Layer and Architecture]()
+- 김하경 [웹 통신의 큰 흐름]()
+- 정현준 [TCP와 UDP의 차이점 + QUIC]()
+- 최해림 [DNS round robin 방식]()
+
 ### 12주차
 - 김하경 [HTTP Method](https://velog.io/@hagyoung99/HTTP-Method)
 - 정현준 [Rest and RestAPI](https://jdalma.github.io/docs/network/restfulapi/)
