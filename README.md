@@ -22,6 +22,13 @@
 - 이름 [주제이름](링크)
 ```
 
+### 14주차
+- 최유한 [쿠키, 세션, jwt 토큰]()
+- 서은지 [프록시]()
+- 최해림 [소켓 통신]()
+- 김하경 [CORS]()
+- 정현준 [OAuth]()
+
 ### 13주차
 - 최유한 [네트워크 시스템의 Layer and Architecture](https://c-yhhhhh.tistory.com/144)
 - 김하경 [웹 통신의 큰 흐름](https://velog.io/@hagyoung99/browserURLenter)
