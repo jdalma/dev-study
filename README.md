@@ -27,7 +27,7 @@
 - 서은지 [프록시]()
 - 최해림 [소켓 통신](https://seaweeed.tistory.com/manage/newpost/?type=post&returnURL=%2Fmanage%2Fposts%2F)
 - 김하경 [CORS]()
-- 정현준 [OAuth]()
+- 정현준 [OAuth](https://jdalma.github.io/docs/algorithmTheory/oauth/)
 
 ### 13주차
 - 최유한 [네트워크 시스템의 Layer and Architecture](https://c-yhhhhh.tistory.com/144)
