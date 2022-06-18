@@ -23,7 +23,7 @@
 ```
 
 ### 14주차
-- 최유한 [쿠키, 세션, jwt 토큰]()
+- 최유한 [쿠키, 세션, jwt 토큰](https://c-yhhhhh.tistory.com/145)
 - 서은지 [프록시](https://silverji.tistory.com/52)
 - 최해림 [소켓 통신](https://seaweeed.tistory.com/manage/newpost/?type=post&returnURL=%2Fmanage%2Fposts%2F)
 - 김하경 [CORS]()
