@@ -25,7 +25,7 @@
 ### 15주차
 
 - 최해림 [Database](https://seaweeed.tistory.com/57)
-- 정현준 [RDBMSvs.NoSQL]()
+- 정현준 [RDBMSvs.NoSQL](https://jdalma.github.io/docs/algorithmTheory/RDBMSvsNoSQL/)
 - 서은지 [ElasticSearch]()
 - 김하경 [Redis]()
 - 최유한 [SQL]()
