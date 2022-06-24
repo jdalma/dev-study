@@ -28,7 +28,7 @@
 - 정현준 [RDBMSvs.NoSQL](https://jdalma.github.io/docs/algorithmTheory/RDBMSvsNoSQL/)
 - 서은지 [ElasticSearch]()
 - 김하경 [Redis]()
-- 최유한 [SQL]()
+- 최유한 [SQL](https://c-yhhhhh.tistory.com/146)
 
 
 ### 14주차
