@@ -27,7 +27,7 @@
 - 최해림 [Database](https://seaweeed.tistory.com/57)
 - 정현준 [RDBMSvs.NoSQL](https://jdalma.github.io/docs/algorithmTheory/RDBMSvsNoSQL/)
 - 서은지 [ElasticSearch](https://silverji.tistory.com/54)
-- 김하경 [Redis]()
+- 김하경 [Redis](https://velog.io/@hagyoung99/Redis)
 - 최유한 [SQL](https://c-yhhhhh.tistory.com/146)
 
 
