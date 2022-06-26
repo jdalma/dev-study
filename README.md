@@ -22,6 +22,14 @@
 - 이름 [주제이름](링크)
 ```
 
+### 16주차
+
+- 최해림 [Regularization(정규화)]()
+- 정현준 [DB 교착상태 & 동시성 제어]()
+- 서은지 [Index & Hint]()
+- 김하경 [Transaction]()
+- 최유한 [DB Clustering&replication]()
+
 ### 15주차
 
 - 최해림 [Database](https://seaweeed.tistory.com/57)
