@@ -25,7 +25,7 @@
 ### 16주차
 
 - 최해림 [Regularization(정규화)](https://seaweeed.tistory.com/58)
-- 정현준 [DB 교착상태 & 동시성 제어]()
+- 정현준 [DB 교착상태 & 동시성 제어](https://jdalma.github.io/docs/algorithmTheory/dbDeadlock/)
 - 서은지 [Index & Hint](https://silverji.tistory.com/55)
 - 김하경 [Transaction](https://velog.io/@hagyoung99/DBTransaction)
 - 최유한 [DB Clustering&replication](https://c-yhhhhh.tistory.com/147)
