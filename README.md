@@ -22,6 +22,14 @@
 - 이름 [주제이름](링크)
 ```
 
+### 17주차
+
+- 최유한 [Process, Thread]()
+- 최해림 [CPU 스케줄러 & 스케쥴링 알고리즘]()
+- 김하경 [Process_Synchronization]()
+- 서은지 [동기와 비동기 & 블로킹과 논블로킹]()
+- 정현준 [Deadlock]()
+
 ### 16주차
 
 - 최해림 [Regularization(정규화)](https://seaweeed.tistory.com/58)
