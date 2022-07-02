@@ -27,7 +27,7 @@
 - 최해림 [Regularization(정규화)](https://seaweeed.tistory.com/58)
 - 정현준 [DB 교착상태 & 동시성 제어]()
 - 서은지 [Index & Hint](https://silverji.tistory.com/55)
-- 김하경 [Transaction]()
+- 김하경 [Transaction](https://velog.io/@hagyoung99/DBTransaction)
 - 최유한 [DB Clustering&replication]()
 
 ### 15주차
