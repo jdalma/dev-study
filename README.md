@@ -25,7 +25,7 @@
 ### 17주차
 
 - 최유한 [Process, Thread]()
-- 최해림 [CPU 스케줄러 & 스케쥴링 알고리즘]()
+- 최해림 [CPU 스케줄러 & 스케쥴링 알고리즘](https://seaweeed.tistory.com/59)
 - 김하경 [Process_Synchronization]()
 - 서은지 [동기와 비동기 & 블로킹과 논블로킹]()
 - 정현준 [Deadlock]()
