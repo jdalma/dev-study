@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdalma%2Fdev-study%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
+
 - **자유 주제 발표 형식 스터디**입니다.
 - 매주 일요일 오전 9시에 [Gathertown](https://app.gather.town/app/c5wtq7YODt9Kda0p/dev-study)에서 모여 발표합니다.
 
