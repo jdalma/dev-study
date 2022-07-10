@@ -26,7 +26,7 @@
 
 ### 17주차
 
-- 최유한 [Process, Thread]()
+- 최유한 [Process, Thread](https://c-yhhhhh.tistory.com/149)
 - 최해림 [CPU 스케줄러 & 스케쥴링 알고리즘](https://seaweeed.tistory.com/59)
 - 김하경 [Process_Synchronization](https://velog.io/@hagyoung99/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94)
 - 서은지 [동기와 비동기 & 블로킹과 논블로킹](https://silverji.tistory.com/56)
