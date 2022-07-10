@@ -26,7 +26,7 @@
 ### 19주차
 
 - 최유한 [Segmentation]()
-- 최해림 [Paging]()
+- 최해림 [Paging](https://seaweeed.tistory.com/60)
 - 김하경 [Virtual Memory1 , Virtual Memory2 ]()
 - 서은지 [FileSystem]()
 - 정현준 [Cache_Locality]()
