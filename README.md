@@ -23,7 +23,8 @@
 ```
 - 이름 [주제이름](링크)
 ```
-### 19주차
+
+### ~~19주차~~ 종료 *[책 스터디](https://github.com/Ate-Books)로 전환*
 
 - 최유한 [Segmentation]()
 - 최해림 [Paging](https://seaweeed.tistory.com/60)
