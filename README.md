@@ -24,7 +24,7 @@
 - 이름 [주제이름](링크)
 ```
 
-### [책 스터디](https://github.com/Ate-Books)*
+### [책 스터디](https://github.com/Ate-Books)
 
 ### ~~18주차~~ 휴식
 
