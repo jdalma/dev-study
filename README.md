@@ -24,13 +24,7 @@
 - 이름 [주제이름](링크)
 ```
 
-### ~~19주차~~ 종료 *[책 스터디](https://github.com/Ate-Books)로 전환*
-
-- 최유한 [Segmentation]()
-- 최해림 [Paging](https://seaweeed.tistory.com/60)
-- 김하경 [Virtual Memory1 , Virtual Memory2 ]()
-- 서은지 [FileSystem]()
-- 정현준 [Cache_Locality]()
+### [책 스터디](https://github.com/Ate-Books)*
 
 ### ~~18주차~~ 휴식
 
