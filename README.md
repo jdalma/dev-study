@@ -1,9 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdalma%2Fdev-study%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
 
-- **자유 주제 발표 형식 스터디**입니다.
 - 매주 일요일 오전 9시에 [Gathertown](https://app.gather.town/app/c5wtq7YODt9Kda0p/dev-study)에서 모여 발표합니다.
 
-# 주제 선정 참고 링크
+## 주제 선정 참고 링크
 
 ### [Sirloin Dev](https://github.com/sirloin-dev/meatplatform/blob/master/job-description/interview-questions.adoc)
 ### [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
@@ -13,20 +12,26 @@
 ### [기본 개념을 정리하는 Repository](https://github.com/WeareSoft/tech-interview)
 ### [Spring 질문 정리](https://sequoia-woolen-f12.notion.site/Spring-f3307e6f46ef4fe5a592a0c5e23e640f)
 ### [Brave Tech Interview - 질문 위주](https://github.com/brave-people/brave-tech-interview)
-### [👍 CS-study](https://github.com/CS-studi/CS-study)
+### [CS-study](https://github.com/CS-studi/CS-study)
 
 ***
-## **git 쓰는 방법 링크**
-[git](https://livecoding.tistory.com/19)
+
+<details>
+<summary>테스트 주도 개발</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>자유 주제 발표 형식 스터디</summary>
+<div markdown="1">
+
 ## `Link`
 
 ```
 - 이름 [주제이름](링크)
 ```
-
-### [책 스터디](https://github.com/Ate-Books)
-
-### ~~18주차~~ 휴식
 
 ### 17주차
 
@@ -141,3 +146,6 @@
 - 최유한 [RESTful API](https://c-yhhhhh.tistory.com/127)
 - 김하경 [equals()/==](https://velog.io/@hagyoung99/JAVAequals)
 
+
+</div>
+</details>
