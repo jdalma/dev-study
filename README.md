@@ -16,21 +16,9 @@
 
 ***
 
-<details>
-<summary>테스트 주도 개발</summary>
-<div markdown="1">
 
-- 1부
-  - 1장 ~ 5장
-    - [서은지]()
-    - [최해림]()
-    - [정현준]()
-    - [김하경]()
-- 2부
-- 3부
+- 테스트 주도 개발 `2022.08.01 ~`
 
-</div>
-</details>
 
 <details>
 <summary>자유 주제 발표 형식 스터디</summary>
