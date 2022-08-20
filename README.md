@@ -18,7 +18,10 @@
 
 
 - 테스트 주도 개발 `2022.08.01 ~`
-
+  - [정현준](https://github.com/jdalma/book-tdd)
+  - [최해림]()
+  - [김하경]()
+  - [서은지]()
 
 <details>
 <summary>자유 주제 발표 형식 스터디</summary>
