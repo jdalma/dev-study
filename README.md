@@ -16,17 +16,6 @@
 
 ***
 
-
-- 테스트 주도 개발 `2022.08.01 ~`
-  - [정현준](https://github.com/jdalma/book-tdd)
-  - [최해림]()
-  - [김하경]()
-  - [서은지]()
-
-<details>
-<summary>자유 주제 발표 형식 스터디</summary>
-<div markdown="1">
-
 ## `Link`
 
 ```
@@ -145,7 +134,3 @@
 - 최해림 [stack & queue](https://www.notion.so/1-stack-queue-510a08575d5d4f1a945010b9875639a6)
 - 최유한 [RESTful API](https://c-yhhhhh.tistory.com/127)
 - 김하경 [equals()/==](https://velog.io/@hagyoung99/JAVAequals)
-
-
-</div>
-</details>
